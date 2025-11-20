@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Packing instructions overview</title>
+  <desc id="desc">Placeholder infographic summarizing the move packing checklist.</desc>
+  <rect width="640" height="400" rx="24" fill="#e6f0ff" stroke="#003366" stroke-width="4" />
+  <text x="40" y="70" font-family="'Segoe UI', sans-serif" font-size="30" font-weight="700" fill="#003366">Packing Instructions</text>
+  <text x="40" y="120" font-family="'Segoe UI', sans-serif" font-size="18" fill="#1f2937">• Purge old materials</text>
+  <text x="40" y="160" font-family="'Segoe UI', sans-serif" font-size="18" fill="#1f2937">• Pack non-essential items first</text>
+  <text x="40" y="200" font-family="'Segoe UI', sans-serif" font-size="18" fill="#1f2937">• Label every box and item</text>
+  <text x="40" y="240" font-family="'Segoe UI', sans-serif" font-size="18" fill="#1f2937">• Seal boxes and stage by door</text>
+  <text x="40" y="280" font-family="'Segoe UI', sans-serif" font-size="18" fill="#1f2937">• Mark trash items clearly</text>
+  <text x="40" y="320" font-family="'Segoe UI', sans-serif" font-size="18" fill="#1f2937">• Keep pathways clear for movers</text>
+</svg>

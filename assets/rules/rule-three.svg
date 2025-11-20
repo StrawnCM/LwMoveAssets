@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Packing rule 3 placeholder</title>
+  <desc id="desc">Visual reminder for packing rule 3.</desc>
+  <rect width="400" height="400" rx="28" fill="#0b4a6f" />
+  <circle cx="200" cy="130" r="78" fill="#f472b6" opacity="0.9" />
+  <text x="200" y="155" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="84" font-weight="800" fill="#0b4a6f">3</text>
+  <text x="200" y="255" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#ffffff">Seal boxes securely</text>
+  <text x="200" y="290" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="16" fill="#dbeafe">Close lids and tape before move day.</text>
+</svg>
