@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
-  <title id="title">Packing rule 2 placeholder</title>
-  <desc id="desc">Visual reminder for packing rule 2.</desc>
-  <rect width="400" height="400" rx="28" fill="#0f3d75" />
-  <circle cx="200" cy="130" r="78" fill="#34d399" opacity="0.9" />
-  <text x="200" y="155" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="84" font-weight="800" fill="#0f3d75">2</text>
-  <text x="200" y="255" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#ffffff">Label every item</text>
-  <text x="200" y="290" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="16" fill="#dbeafe">Include destination room and name.</text>
-</svg>
